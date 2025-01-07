@@ -1,0 +1,8 @@
+# Biblioteca para interagir com os serviços AWS
+boto3
+
+# Dependência do boto3 para chamadas de API AWS
+botocore
+
+# Tipos para validação estática e autocomplete ao usar o Textract
+mypy-boto3-textract

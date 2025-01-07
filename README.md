@@ -1,6 +1,6 @@
 # Projeto AWS Textract - Extração de Texto de Imagens
 
-Este projeto utiliza o **AWS Textract** para processar imagens e extrair texto, salvando os resultados em um arquivo JSON e exibindo o texto extraído no console. Foi implementado em **Python**, utilizando as bibliotecas da AWS e boas práticas de desenvolvimento.
+Projeto que utiliza o **AWS Textract** para processar uma imagem de uma lista de material escolar, ler o JSON gerado no site da AWS no upload deste documento (Amazon Textract / Analisar documento, funcionalidade download de resultados) e, em seguida, extraindo as informações com **Python**, utilizando as bibliotecas da AWS e boas práticas de desenvolvimento.
 
 ## Pré-requisitos
 
